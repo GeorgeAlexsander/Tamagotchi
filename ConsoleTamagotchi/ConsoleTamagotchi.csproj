@@ -84,7 +84,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Controller\CodeFile1.cs" />
     <Compile Include="Controller\TamagotchiController.cs" />
     <Compile Include="Model\Abilities.cs" />
     <Compile Include="Model\Ability.cs" />
